@@ -1,1 +1,14 @@
+#DECLARACIÓN DE FUNCIONES
+#FUNCIONES SIN PARAMETROS
+
+def funcion1 ():
+ #CONTENIDO DE LA FUNCIÓN
+ print ('HAS LLAMADO DE LA FUNCION 1')
+  
+  #FUNCIONES CON PARAMETROS Y RETORNO
+  def funcion2 (a,b):
+    #CONTENIDO DE LA FUNCION
+    c=int(a)+int(b)
+    return c
+
 
